@@ -15,3 +15,5 @@ for i in range(k - 1, -1, -1):
     n3 = n3 + a * 10 ** i
     n //= 10
 print(n3)
+
+print('+New commit')
